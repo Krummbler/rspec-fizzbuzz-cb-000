@@ -1,2 +1,2 @@
-def fizzbuzz(beep)
+def fizzbuzz
 end
