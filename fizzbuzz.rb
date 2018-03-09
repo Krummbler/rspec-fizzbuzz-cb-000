@@ -1,4 +1,4 @@
-def fizzbuzz(x)
-  if x % 15 == 0
+def fizzbuzz(beep)
+  if beep % 15 == 0
     return "FizzBuzz"
 end
